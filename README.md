@@ -9,3 +9,4 @@ Um sistema simples de gestão de clientes utilizando Flask, SQLAlchemy, Pymongo,
    ```bash
    python -m venv venv
    source venv/bin/activate
+   pip install -r requirements.txt
